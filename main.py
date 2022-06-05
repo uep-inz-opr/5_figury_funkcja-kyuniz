@@ -31,4 +31,4 @@ for n in range(i):
 if sum != 'N/D':
     print(format(suma_pol, ".2f"))
 else:
-    print('można podać maksymalnie 3 liczby')
+    print('Błąd: można podać maksymalnie 3 liczby')
